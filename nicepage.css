@@ -35195,6 +35195,10 @@ a.u-link.u-text-hover-grey-90:hover {
   font-size: 0.875rem;
   margin: -34px auto 22px 23px;
 }
+
+.u-header .u-btn-1 {
+  background-image: none;
+}
 @media (max-width: 1199px) {
   .u-header .u-sheet-1 {
     min-height: 90px;
@@ -35227,6 +35231,10 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-text-1 {
     margin-top: -38px;
     margin-bottom: 23px;
+  }
+
+  .u-header .u-btn-1 {
+    padding: 0;
   }
 }
 
