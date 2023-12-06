@@ -302,7 +302,7 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 729px;
+  min-height: 840px;
 }
 
 .u-section-2 .u-group-1 {
@@ -336,7 +336,7 @@
 
 .u-section-2 .u-list-1 {
   width: 291px;
-  margin: -476px auto 125px 93px;
+  margin: -476px auto 60px 93px;
 }
 
 .u-section-2 .u-repeater-1 {
@@ -405,27 +405,12 @@
   }
 
   .u-section-2 .u-group-1 {
-    width: 540px;
-    min-height: 624px;
-    margin-left: 324px;
+    margin-left: 230px;
     height: auto;
   }
 
   .u-section-2 .u-text-1 {
     margin-top: 37px;
-  }
-
-  .u-section-2 .u-form-1 {
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
-  }
-
-  .u-section-2 .u-list-1 {
-    width: 283px;
-    margin-top: -489px;
-    margin-bottom: 60px;
-    margin-left: 76px;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -449,20 +434,11 @@
   }
 
   .u-section-2 .u-group-1 {
-    width: 559px;
-    min-height: 671px;
-    margin-left: auto;
+    margin-left: 10px;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding: 125px 30px 30px;
-  }
-
-  .u-section-2 .u-list-1 {
-    margin-top: -699px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
   }
 
   .u-section-2 .u-repeater-1 {
@@ -493,20 +469,12 @@
   }
 
   .u-section-2 .u-group-1 {
-    width: 500px;
-    min-height: 615px;
-    margin-top: 124px;
+    width: 540px;
+    margin-left: 0;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding-top: 80px;
-  }
-
-  .u-section-2 .u-list-1 {
-    height: auto;
-    width: auto;
-    margin-right: initial;
-    margin-left: initial;
   }
 }
 
@@ -516,11 +484,7 @@
   }
 
   .u-section-2 .u-group-1 {
-    min-height: 673px;
-    margin-top: 210px;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 340px;
   }
 
   .u-section-2 .u-container-layout-1 {
@@ -535,11 +499,12 @@
     margin-top: 158px;
   }
 
+  .u-section-2 .u-form-1 {
+    width: 320px;
+  }
+
   .u-section-2 .u-list-1 {
-    width: 290px;
-    margin-top: -846px;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 49px;
   }
 
   .u-section-2 .u-repeater-1 {

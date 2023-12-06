@@ -683,10 +683,6 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-6 {
-    min-height: 880px;
-  }
-
   .u-section-6 .u-text-1 {
     margin-left: calc(((100% - 940px) / 2));
     margin-right: calc(((100% - 940px) / 2));
